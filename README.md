@@ -7,10 +7,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas na **FATEC Ourinhos**  
 Estagiário de Suporte Técnico na **SEDUC/SP**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/jilldias)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jilliandias/ )
-[![Java](https://img.shields.io/badge/Java-Estudos-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)
-[![Linux](https://img.shields.io/badge/Linux-Infraestrutura-FCC624?style=flat-square&logo=linux&logoColor=111827)](https://www.linux.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jilliandias/ )
 
 </div>
 
@@ -18,42 +15,47 @@ Estagiário de Suporte Técnico na **SEDUC/SP**
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de software, arquitetura de sistemas e infraestrutura.
+<div align="justify">
+Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de software, arquitetura de sistemas e engenharia de software.
 
-Minha principal área de estudo é o **Back-End com Java e Spring Boot**, com foco em lógica de programação, persistência de dados e construção de aplicações.
+Minha principal área de estudo se concentra em **Back-End com Java e Spring Boot**, com foco em documentação, lógica de programação, persistência de dados e construção de aplicações.
 
 Também desenvolvo projetos pessoais com Linux e conteinerização, explorando a integração entre software e infraestrutura. Minha experiência em suporte técnico complementa essa trajetória com a prática de diagnóstico, manutenção e resolução de problemas.
 
 Atualmente, busco uma oportunidade de **Estágio ou Júnior em Desenvolvimento e Engenharia de Software**.
+</div>
 
 ## Stack 
 
 <div align="center">
 
-### Desenvolvimento
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" title="Spring"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
-
-### Ferramentas e infraestrutura
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" title="Debian"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" title="Java"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" alt="Spring Boot" title="Spring Boot"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" title="MySQL"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" title="Python"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" title="Git"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" title="GitHub"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" title="Linux"/>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-**Conhecimentos em desenvolvimento:** Java, Spring Boot, SQL e MySQL.  
-**Ferramentas e infraestrutura:** Git, GitHub, Linux, Debian, Podman, hardware e redes.
 
 ## Projetos selecionados
 
@@ -103,12 +105,9 @@ Aplicação de gerenciamento de dados com operações de criação, consulta, at
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jilldias&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Estatísticas do GitHub"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilldias&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Linguagens mais utilizadas"/>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=jilldias&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -117,7 +116,11 @@ Aplicação de gerenciamento de dados com operações de criação, consulta, at
 **Análise e Desenvolvimento de Sistemas** — FATEC Ourinhos  
 Conclusão prevista: junho de 2028.
 
-Meu objetivo é aprofundar os fundamentos de desenvolvimento, evoluir na construção de aplicações Back-End e colaborar com equipes que valorizem qualidade de código, aprendizado contínuo e resolução de problemas.
+<div align="justify">
+Quero aprofundar meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento, integração com bancos de dados e construção de aplicações robustas.
+
+Acredito no aprendizado contínuo, na colaboração e na importância de compreender os fundamentos por trás das tecnologias.
+</div>
 
 ## Contato
 
@@ -127,7 +130,7 @@ Meu objetivo é aprofundar os fundamentos de desenvolvimento, evoluir na constru
   <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jilliandias/ ">
+<a href="https://www.linkedin.com/in/jilliandias/ ">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -137,6 +140,6 @@ Meu objetivo é aprofundar os fundamentos de desenvolvimento, evoluir na constru
 
 <br/><br/>
 
-*Compreender sistemas, investigar problemas e transformar conhecimento em soluções.*
+"Seja como o promontório, contra o qual as ondas quebram e voltam a quebrar na tempestade; ele se mantém firme até que as águas tumultuosas se rendem à sua volta e vão descansar." <br>Marco Aurélio.
 
 </div>
