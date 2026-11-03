@@ -104,10 +104,20 @@ Aplicação de gerenciamento de dados com operações de criação, consulta, at
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jilldias&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilldias&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Linguagens mais utilizadas"/>
+<img height="165" src="https://raw.githubusercontent.com/jilldias/jilldias/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://raw.githubusercontent.com/jilldias/jilldias/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais utilizadas"/>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/jilldias/jilldias/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jilldias&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jilldias&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade"/>
 
 </div>
 
