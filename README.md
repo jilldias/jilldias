@@ -117,7 +117,7 @@ Aplicação de gerenciamento de dados com operações de criação, consulta, at
 
 <img src="https://streak-stats.demolab.com?user=jilldias&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jilldias&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jilldias&theme=tokyo-night&hide_border=true&bg_color=0d1117&v=2" alt="Gráfico de atividade"/>
 
 </div>
 
