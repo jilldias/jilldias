@@ -5,28 +5,20 @@
 
 <br/>
 
-<!-- Título Dinâmico em Azul & Preto (Largura ajustada para não cortar letras) -->
+<!-- Título Dinâmico em Azul & Preto -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=JILLIAN+AC%C3%81CIO+DIAS;Back-End+Development+%C2%B7+Java+%C2%B7+Spring+Boot;Software+Engineering+%26+Linux+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=JILLIAN+AC%C3%81CIO+DIAS;Back-End+Developer+%C2%B7+Java+%C2%B7+Spring+Boot;Software+Engineering+%26+Linux+Infrastructure" alt="Typing SVG" />
 </a>
 
 <p>
-  Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC Ourinhos</b><br/>
-  Estagiário de Suporte Técnico na <b>SEDUC/SP</b>
+  Repositório para documentar meus estudos e práticas em desenvolvimento de software, hardware e minhas demandas criativas
 </p>
 
-<!-- Badges Principais (com ícone SVG embutido para o LinkedIn) -->
+<!-- Contato Principal -->
 <p>
-  <a href="https://www.linkedin.com/in/jilliandias/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4QkRGOCI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi0xNGMwLTEuMS0uOS0yLTItMnptLTExIDE0aC0zdi05aDN2OXptLTEuNS0xMC4zYy0xIDAtMS44LS44LTEuOC0xLjhzLjgtMS44IDEuOC0xLjggMS44LjggMS44IDEuOC0uOCAxLjgtMS44IDEuOHptMTIuNSAxMC4zaC0zdi00LjdjMC0xLjEtLjQtMS45LTEuNS0xLjktLjggMC0xLjMuNi0xLjUgMS4xLS4xLjItLjEuNS0uMS44djQuN2gtM3YtOWgyLjl2MS4zYy40LS42IDEuMS0xLjUgMi43LTEuNSAyIDAgMy41IDEuMyAzLjUgNC4xdjUuMXoiLz48L3N2Zz4=" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/jilldias">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
-  </a>
   <a href="mailto:jillian.dias05@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="E-mail"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-1E3A8A?style=for-the-badge&logo=checkmarx&logoColor=38BDF8" alt="Status"/>
 </p>
 
 </div>
@@ -42,16 +34,13 @@
   <tr>
     <td width="100%">
       <p align="justify">
-        Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, apaixonado por desenvolvimento de software, arquitetura de sistemas e engenharia de back-end.
+        Sou uma pessoa curiosa, apaixonada por aprender e explorar diferentes áreas do conhecimento. Gosto de compreender como as coisas funcionam, questionar ideias e buscar conexões entre diferentes campos, especialmente tecnologia e ciência.
       </p>
       <p align="justify">
-        Minha principal área de foco se concentra em <b>Back-End com Java e Spring Boot</b>, priorizando código limpo, documentação clara, persistência de dados e construção de aplicações escaláveis.
+        Atualmente, dedico meus estudos à programação e à engenharia de software, buscando sempre conciliar teoria e prática. Acredito que aprender vai muito além de conhecer ferramentas ou linguagens: envolve compreender conceitos, experimentar, errar e construir conhecimento.
       </p>
       <p align="justify">
-        Também exploro projetos práticos com <b>Linux e conteinerização</b>, unindo desenvolvimento e infraestrutura. Minha atuação em suporte técnico fortalece essa base com diagnóstico preciso e resolução de problemas reais.
-      </p>
-      <p align="justify">
-        🎯 <b>Objetivo atual:</b> Oportunidade de <b>Estágio ou Desenvolvedor Júnior</b> em Engenharia / Desenvolvimento de Software.
+        Este GitHub é meu espaço para documentar projetos, registrar estudos, compartilhar experiências e acompanhar minha evolução.
       </p>
     </td>
   </tr>
@@ -138,64 +127,11 @@
         <li><b>Automação em Python:</b> aplicação desenvolvida para monitoramento e busca de concursos públicos abertos.</li>
         <li><b>Hardening e Contêineres:</b> isolamento de serviços com Podman, regras de firewall e verificações de segurança.</li>
       </ul>
-      <a href="https://www.linkedin.com/posts/jilliandias_linux-debian-homelab-ugcPost-7513438923411554304-N0OT/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7513597760785547265&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEjk7KcBDhAA4DYS1T0FloRQxDhQadVayJg">
-        <img src="https://img.shields.io/badge/Ver_Demonstra%C3%A7%C3%A3o_%E2%86%92-1E3A8A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTExIDE0SDVWOThoM3Y5em0tMS41LTEwLjNjLTEgMC0xLjgtLjgtMS44LTEuOHMuOC0xLjggMS44LTEuOCAxLjguOCAxLjggMS44LS44IDEuOC0xLjggMS44em0xMi41IDEwLjNoLTN2LTQuN2MwLTEuMS0uNC0xLjktMS41LTEuOS0uOCAwLTEuMy42LTEuNSAxLjEtLjEuMi0uMS41LS4xLjh2NC43aC0zVjloMi45djEuM2MuNC0uNiAxLjEtMS41IDIuNy0xLjUgMiAwIDMuNSAxLjMgMy41IDQuMXY1LjF6Ii8+PC9zdmc+" alt="Ver Demonstração"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- PROJETO 02 -->
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>💳 02 — PDV | Sistema de Ponto de Venda</h3>
       <p>
-        <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8" alt="Java"/>
-        <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Em_Desenvolvimento-1E3A8A?style=flat-square&logo=codeforces&logoColor=white" alt="Em desenvolvimento"/>
+        <a href="https://github.com/jilldias/jillserver">
+          <img src="https://img.shields.io/badge/Acessar_Reposit%C3%B3rio-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Acessar Repositório"/>
+        </a>
       </p>
-      <p align="justify">
-        Aplicação de gestão comercial projetada para o controle completo de operações de frente de caixa, com foco na implementação de regras de negócio, integridade transacional e organização modular do sistema:
-      </p>
-      <ul>
-        <li><b>Catálogo e Estoque:</b> cadastro estruturado de produtos e controle automatizado de movimentação de estoque.</li>
-        <li><b>Operação de Caixa:</b> registro ágil de vendas com rotinas completas de abertura e fechamento de caixa.</li>
-        <li><b>Relatórios Gerenciais:</b> consolidação de dados financeiros e indicadores de desempenho de vendas e inventário.</li>
-      </ul>
-      <a href="https://www.linkedin.com/posts/jilliandias_o-v%C3%ADdeo-abaixo-mostra-um-pdv-ponto-de-venda-ugcPost-7482578903639900160--Hyf/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7482579019280891904&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEjk7KcBDhAA4DYS1T0FloRQxDhQadVayJg">
-        <img src="https://img.shields.io/badge/Ver_Demonstra%C3%A7%C3%A3o_%E2%86%92-1E3A8A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTExIDE0SDVWOThoM3Y5em0tMS41LTEwLjNjLTEgMC0xLjgtLjgtMS44LTEuOHMuOC0xLjggMS44LTEuOCAxLjguOCAxLjggMS44LS44IDEuOC0xLjggMS44em0xMi41IDEwLjNoLTN2LTQuN2MwLTEuMS0uNC0xLjktMS41LTEuOS0uOCAwLTEuMy42LTEuNSAxLjEtLjEuMi0uMS41LS4xLjh2NC43aC0zVjloMi45djEuM2MuNC0uNiAxLjEtMS41IDIuNy0xLjUgMiAwIDMuNSAxLjMgMy41IDQuMXY1LjF6Ii8+PC9zdmc+" alt="Ver Demonstração"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- PROJETO 03 -->
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>🗄️ 03 — CRUD | Java, Spring Boot & Banco de Dados</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8" alt="Java"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=38BDF8" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8" alt="React"/>
-        <img src="https://img.shields.io/badge/REST_API-1E3A8A?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
-      </p>
-      <p align="justify">
-        Aplicação full-stack de gerenciamento de registros desenvolvida para consolidar boas práticas de arquitetura em camadas, persistência relacional e integração entre back-end e interface web:
-      </p>
-      <ul>
-        <li><b>Operações Completas:</b> implementação estruturada das rotinas de criação, consulta, atualização e exclusão (CRUD).</li>
-        <li><b>Arquitetura Back-End:</b> organização em camadas (Controller, Service e Repository) com Spring Boot.</li>
-        <li><b>Integração Front-End:</b> consumo de endpoints RESTful por meio de interface reativa construída em React.</li>
-      </ul>
-      <a href="https://www.linkedin.com/posts/jilliandias_java-springboot-react-ugcPost-7464758660905316352-olJ7/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7464758724696440832&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEjk7KcBDhAA4DYS1T0FloRQxDhQadVayJg">
-        <img src="https://img.shields.io/badge/Ver_Demonstra%C3%A7%C3%A3o_%E2%86%92-1E3A8A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTExIDE0SDVWOThoM3Y5em0tMS41LTEwLjNjLTEgMC0xLjgtLjgtMS44LTEuOHMuOC0xLjggMS44LTEuOCAxLjguOCAxLjggMS44LS44IDEuOC0xLjggMS44em0xMi41IDEwLjNoLTN2LTQuN2MwLTEuMS0uNC0xLjktMS41LTEuOS0uOCAwLTEuMy42LTEuNSAxLjEtLjEuMi0uMS41LS4xLjh2NC43aC0zVjloMi45djEuM2MuNC0uNiAxLjEtMS41IDIuNy0xLjUgMiAwIDMuNSAxLjMgMy41IDQuMXY1LjF6Ii8+PC9zdmc+" alt="Ver Demonstração"/>
-      </a>
     </td>
   </tr>
 </table>
@@ -221,24 +157,6 @@
 
 <br/>
 
-## `05` · Formação & Visão
-
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>🎓 Tecnologia em Análise e Desenvolvimento de Sistemas — FATEC Ourinhos</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Conclus%C3%A3o_Prevista-Junho_de_2028-1E3A8A?style=flat-square&logo=graduationcap&logoColor=38BDF8" alt="Conclusão"/>
-      </p>
-      <p align="justify">
-        Busco aprofundar continuamente meus conhecimentos em <b>arquitetura de software, padrões de projeto, bancos de dados relacionais e boas práticas de engenharia</b>. Acredito na solidez dos fundamentos técnicos, no aprendizado contínuo e na colaboração para construir sistemas confiáveis e de fácil manutenção.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- Rodapé Visual Azul & Preto -->
 <div align="center">
 
@@ -246,16 +164,8 @@
 
 <br/><br/>
 
-<a href="https://github.com/jilldias">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jilliandias/">
-  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTExIDE0SDVWOThoM3Y5em0tMS41LTEwLjNjLTEgMC0xLjgtLjgtMS44LTEuOHMuOC0xLjggMS44LTEuOCAxLjguOCAxLjggMS44LS44IDEuOC0xLjggMS44em0xMi41IDEwLjNoLTN2LTQuN2MwLTEuMS0uNC0xLjktMS41LTEuOS0uOCAwLTEuMy42LTEuNSAxLjEtLjEuMi0uMS41LS4xLjh2NC43aC0zVjloMi45djEuM2MuNC0uNiAxLjEtMS41IDIuNy0xLjUgMiAwIDMuNSAxLjMgMy41IDQuMXY1LjF6Ii8+PC9zdmc+" alt="LinkedIn"/>
-</a>
-&nbsp;
 <a href="mailto:jillian.dias05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="E-mail"/>
+  <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="E-mail"/>
 </a>
 
 <br/><br/>
