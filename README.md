@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://example.com/jillian_cover_pixel_blue.png" alt="Capa JILLIAN ACÁCIO DIAS" width="100%" />
+
 # JILLIAN ACÁCIO DIAS
 
 ### Back-End Development · Java · Software Engineering
