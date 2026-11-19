@@ -67,39 +67,6 @@
         <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
       </p>
       <br/>
-      <table>
-        <tr>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/><br/>
-            <sub><b>Java</b></sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" alt="Spring Boot"/><br/>
-            <sub><b>Spring Boot</b></sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/><br/>
-            <sub><b>MySQL</b></sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/><br/>
-            <sub><b>Python</b></sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux"/><br/>
-            <sub><b>Linux</b></sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/><br/>
-            <sub><b>Git</b></sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/><br/>
-            <sub><b>GitHub</b></sub>
-          </td>
-        </tr>
-      </table>
-      <br/>
     </td>
   </tr>
 </table>
