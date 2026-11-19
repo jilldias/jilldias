@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://example.com/jillian_cover_pixel_blue.png" alt="Capa JILLIAN ACÁCIO DIAS" width="100%" />
+<img src="https://photos.app.goo.gl/tYQfpFV48kf56iMw5" alt="Capa JILLIAN ACÁCIO DIAS" width="100%" />
 
 # JILLIAN ACÁCIO DIAS
 
